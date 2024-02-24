@@ -1,21 +1,21 @@
 # Ekram Alam
 
 ## 👨‍🏫 About Me
-I am Ekram Alam, currently serving as an Assistant Professor in the Department of Computer Science at Gour Mahavidyalaya, Malda, India. My ongoing research encompasses Sustainable AI, Computer Vision, and Deep Learning.
+I am Ekram Alam, currently serving as an Assistant Professor in the Department of Computer Science at [Gour Mahavidyalaya](https://gourmaha.ac.in/), Malda, India. My ongoing research encompasses Sustainable AI, Computer Vision, and Deep Learning.
 
 ## 🎓 Education
-- M.Tech in Computer Science & Engineering, University of Kalyani, India, 2013.
-- B.Tech in Information Technology, West Bengal University of Technology, India, 2011.
+- M.Tech in Computer Science & Engineering, [University of Kalyani](https://klyuniv.ac.in/), India, 2013.
+- B.Tech in Information Technology, [West Bengal University of Technology](https://makautwb.ac.in/), India, 2011.
 
 ## 👨‍💻 Professional Experience
 - Assistant Professor, Department of Computer Science, Gour Mahavidyalaya, Malda, India.
 - Previous: Department of Computer Science & Technology, Nibedita Institute of Technology, Murshidabad, India.
 
 ## 🌐 Professional Memberships
-- International Association of Engineers (IAENG), Member
-- Institute of Electrical and Electronics Engineers (IEEE), Member
-- IEEE Computational Intelligence Society (CIS), Member
-- Computer Society of India (CSI), Lifetime Member
+- [International Association of Engineers (IAENG)](https://www.iaeng.org/), Member
+- [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/), Member 
+- [IEEE Computational Intelligence Society (CIS)](https://cis.ieee.org/), Member
+- [Computer Society of India (CSI)](https://csi-india.org/), Lifetime Member
 
 ## 🧠 Research Interests
 - Sustainable AI
