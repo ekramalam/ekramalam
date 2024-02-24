@@ -26,7 +26,8 @@ I am Ekram Alam, currently serving as an Assistant Professor in the Department o
 - Email: ealam4u@gmail.com
 - Department: Computer Science, Gour Mahavidyalaya, Malda, PIN: 732142, West Bengal, India
 
-## 🌐 Profiles
+## 🌐 Web Links
 - [Google Scholar Profile](https://scholar.google.co.in/citations?hl=en&user=1-LNlp4AAAAJ)
 - [ResearchGate Profile](https://www.researchgate.net/profile/Ekram-Alam)
 - [LinkedIn Profile](https://www.linkedin.com/in/ekramalam/)
+- [Website](https://sites.google.com/view/ekram-alam)
